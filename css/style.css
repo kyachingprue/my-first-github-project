@@ -4,3 +4,17 @@ div{
   margin-bottom: 20px;
   padding: 10px;
 }
+.kyaching{
+  background: skyblue;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px;
+  padding-bottom: 0;
+}
+.subscribe{
+  margin-bottom: 10px;
+  background: red;
+  color: white;
+  box-shadow: 5px 6px 4px black;
+}
